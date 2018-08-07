@@ -53,7 +53,7 @@ IntervalDT[steps == max(steps), .(max_interval = interval)]
 ```
 
 
-## Imputing missing values
+## Inputing missing values
 
 1. Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with 𝙽𝙰s)
 
